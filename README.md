@@ -32,12 +32,6 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-## Environment Variables
-
-Create a `.env` file if required:
-
-API_KEY=your_api_key
-DATABASE_URL=your_database_url
 
 ## Running the Application
 
