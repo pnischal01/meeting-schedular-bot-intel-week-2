@@ -22,9 +22,6 @@ The Meeting Scheduler Agent is an intelligent scheduling system built with Strea
 
 Clone the repository:
 
-git clone https://github.com/your-username/meeting-scheduler-agent.git
-cd meeting-scheduler-agent
-
 Create a virtual environment:
 
 python -m venv venv
